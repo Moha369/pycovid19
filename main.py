@@ -105,5 +105,3 @@ class Statistics:
         global_rank = data['total_danger_rank'])
 
         return info
-cls = Statistics()
-print(cls.by_country('SA')['total_cases'])
