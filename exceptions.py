@@ -1,0 +1,2 @@
+class CountryNotValidError(Exception):
+    pass
